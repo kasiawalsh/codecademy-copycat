@@ -14,7 +14,7 @@ We need to pass them down as props from container component to presentation comp
 We can do that by adding them as attributes in CopyCat. 
 
 
-When we tyle , we trigger onChange event 
+When we type, we trigger onChange event 
 which we have defined as an attribute on our input element
 That called handleChange function 
 which we are accessing through props from our container component 
